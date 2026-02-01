@@ -9,7 +9,7 @@ The website uses a card-based layout to display news articles. Each article is c
 Images are wrapped in semantic HTML tags using `<figure>` and `<figcaption>` to provide proper captions and improve accessibility. Each image also includes an `alt` attribute to support screen readers and follow HTML best practices.
 
 ## Live Website
-https://FortuneX81.github.io/news-blog/
+https://FortuneX81.github.io/Fortunes-Blog/
 
 ## Technologies Used
 - HTML5 (for page structure and content)
